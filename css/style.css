@@ -49,18 +49,18 @@ a {
     font-size: 3.5rem;
     color:#333;
 }
-.stie-link__logo {
+/* .stie-link__logo {
 
 }
 
 .sitenav {
-}
+} */
 .sitenav__list {
     display: flex;
     gap: 3rem;
 }
-.sitenav__item {
-}
+/* .sitenav__item {
+} */
 .sitenav__link {
     font-size: 2rem;
     color:darksalmon
@@ -68,8 +68,8 @@ a {
 
 /* HERO */
 
-.main {
-}
+/* .main {
+} */
 .hero {
     height: 90vh;
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)) , url("../images/hero-bg.jpg");
@@ -80,8 +80,8 @@ a {
     align-items:center;
     text-align: center;
 }
-.hero__container {
-}
+/* .hero__container {
+} */
 .hero__info {
     max-width: 700px;
     margin-left: auto;
